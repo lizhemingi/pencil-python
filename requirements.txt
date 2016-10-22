@@ -1,0 +1,4 @@
+numpy==1.11.2
+Pillow==3.4.2
+scipy==0.18.1
+wheel==0.26.0
