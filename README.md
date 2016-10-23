@@ -60,8 +60,8 @@ I really got confused so at first I try my best not to use the opencv functions.
 **Here are some original picture and productions of the method.**
 
 <div align="center">
-	<img src="img/33.jpg" height="300"/>
-	<img src="img/33_color.jpg" height="300"/>
+	<img src="img/33.jpg" height="360"/>
+	<img src="img/33_color.jpg" height="360"/>
 </div>
 
 <p align="center">Happy Birthday Arsene Wenger</p>
@@ -76,17 +76,17 @@ I really got confused so at first I try my best not to use the opencv functions.
 <p align="center">Come on You Gunners!</p>
 
 <div align="center">
-	<img src="img/47.jpg" height="300"/>
-	<img src="img/47_pencil.jpg" height="300"/>
-	<img src="img/47_color.jpg" height="300"/>
+	<img src="img/47.jpg" height="360"/>
+	<img src="img/47_pencil.jpg" height="360"/>
+	<img src="img/47_color.jpg" height="360"/>
 </div>
 
 <p align="center">@林导</p>
 	
 <div align="center">
-<img src="img/46.jpg" height="300"/>
-	<img src="img/46_pencil.jpg" height="300"/>
-	<img src="img/46_color.jpg" height="300"/>
+<img src="img/46.jpg" height="360"/>
+	<img src="img/46_pencil.jpg" height="360"/>
+	<img src="img/46_color.jpg" height="360"/>
 </div>
 
 <p align="center">@董小彬</p>
